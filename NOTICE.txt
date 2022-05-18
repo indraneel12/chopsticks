@@ -1,0 +1,4 @@
+This project is not endorsed by or affiliated with any of its dependencies 
+(including, but not limited to, Google LLC), solely fulfilling the requirement 
+of an end semester project by Kannur University under the course BCA, 
+during the academic period 2019-22, in the matter of Indraneel Rajeevan.

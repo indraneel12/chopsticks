@@ -1,0 +1,19 @@
+/* Copyright 2022 Indraneel Rajeevan */
+/* SPDX-License-Identifier: BSD-3-Clause */
+
+.title {
+  font-size: 12vw;
+  font-family: fantasy;
+  padding: 5vh;
+  text-align: center;
+  flex-wrap: wrap;
+  font-weight: bold;
+  user-select: none;
+}
+
+.img-chart {
+  -webkit-user-drag: none;
+  border: 4px solid;
+  border-radius: 8%;
+  border-style: dotted;
+}
