@@ -1,9 +1,27 @@
-# BCA Project
+# Chopsticks Game (BCA 2019-22 Project)
+
+An endeavor to provide a digital platform for people interested in
+Chopsticks to play and/or improve their tactical skills.
+
+![Demo Game](./demo_game.png "Demo Game")
+
+- intuitive user interface
+- play with/against my bot
+- adjust bot levels
+- undo
+- redo
+- hint
+- restart
+- bot analysis
+- position picker
+- static game analysis
 
 ## Version: 0.1.0
+
 - Initial development release.
 
 ## License
+
 <pre>
  Copyright 2022 Indraneel Rajeevan
  
@@ -33,8 +51,25 @@
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 </pre>
 
+## Service
+
+This repository primarily contains the output of `flutter build web` and
+not the original source code that I have written in
+Dart (alongside Flutter) and Python, as it is intended only for deployment
+(at least until I complete my course) in order to avoid instances/illusions of
+plagiarism and hindrance to my degree certificate.
+
+- **Game**
+
+  <https://indraneel12.github.io/chopsticks/>
+
+- **Analysis**
+
+  <https://indraneel12.github.io/chopsticks/indrubot-analysis/>
+
 ## Notice
-> This project is not endorsed by or affiliated with any of its dependencies 
-> (including, but not limited to, Google LLC), solely fulfilling the requirement 
-> of an end semester project by Kannur University under the course BCA, 
+
+> This project is not endorsed by or affiliated with any of its dependencies
+> (including, but not limited to, Google LLC), solely fulfilling the requirement
+> of an end semester project by Kannur University under the course BCA,
 > during the academic period 2019-22, in the matter of Indraneel Rajeevan.
