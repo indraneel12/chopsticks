@@ -67,6 +67,12 @@ plagiarism and hindrance to my degree certificate.
 
   <https://indraneel12.github.io/chopsticks/indrubot-analysis/>
 
+The core goal (apropos porting this relatively unpopular game to a
+digital platform) has been accomplished, wherein marketing, business, and
+suchlike have not been a priority, as I view this project more
+along the lines of a stepping stone towards enhancing my
+software engineering calibre.
+
 ## Notice
 
 > This project is not endorsed by or affiliated with any of its dependencies
