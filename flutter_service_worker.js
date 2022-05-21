@@ -25,14 +25,10 @@ const RESOURCES = {
 "assets/FontManifest.json": "14245cfe911b03e5000bc4231a8f49d2",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "d56737ffac193e868fb3d1b205a2e47d",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.ico": "9e7fc03d4a74aa2340223b2f4a548db4",
-"index.html": "45dbbb25f0c7d57c1b6a64ba1d7a6c54",
-"/": "45dbbb25f0c7d57c1b6a64ba1d7a6c54",
-"main.dart.js": "426b5136c5df4b02ba4b1f80ce37e124",
+"index.html": "137b828496c7cd2e2a8f9b81778da007",
+"/": "137b828496c7cd2e2a8f9b81778da007",
+"main.dart.js": "1de37a4c9d7cd481e699b94f88426cb7",
 "manifest.json": "8ab03dbea48dcf99db093b167581da6f",
 "version.json": "9512cfcd629b40d10eb23bd08614bcf4"
 };
