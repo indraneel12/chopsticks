@@ -5,6 +5,8 @@ Chopsticks to play and/or improve their tactical skills.
 
 ![Demo Game](./demo_game.png "Demo Game")
 
+**Live Demo:** https://youtu.be/cSC7XtsP2kk
+
 - intuitive user interface
 - play with/against my bot
 - adjust bot levels
