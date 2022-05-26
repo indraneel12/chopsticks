@@ -8489,7 +8489,7 @@ _.b=d
 _.c=e
 _.d=f
 _.e=0
-_.r=_.f=!1},
+_.r=_.f=-1},
 a_l:function a_l(){},
 a_h:function a_h(){},
 a_i:function a_i(){},
@@ -39143,7 +39143,7 @@ if(!c.b){s=b.a
 r=s.c
 q=r[s.e]
 A.b(s.a,"_variant")
-if(q.aL(B.fk)&&!s.f&&!s.r&&s.b.length===0&&A.a5(s.x,!0,t.yM).length===0&&b.b===-1){q=r[s.e]
+if(q.aL(B.fk)&&s.f===-1&&s.r===-1&&s.b.length===0&&A.a5(s.x,!0,t.yM).length===0&&b.b===-1){q=r[s.e]
 if(!q.gdT(q))if(!s.gcU())if(!s.gcV()){s=r[s.e]
 r=s.a
 if(r.a.a===B.k&&r.b.a===B.k){s=s.b
@@ -39594,12 +39594,16 @@ p.toString
 A.b(r.a,q)
 p=p>=3}else p=!1
 return p},
-gcU(){A.b(this.a,"_variant")
-var s=this.f
-return s},
-gcV(){A.b(this.a,"_variant")
-var s=this.r
-return s},
+gcU(){var s,r
+A.b(this.a,"_variant")
+s=this.f
+r=this.e
+return s===r},
+gcV(){var s,r
+A.b(this.a,"_variant")
+s=this.r
+r=this.e
+return s===r},
 gPg(){return this.e>0},
 gOH(){return this.e<this.b.length},
 adi(a,b){var s,r,q,p,o,n,m=this,l=m.c,k=l[m.e]
@@ -39619,10 +39623,13 @@ l.push(r)
 l=m.b
 B.b.vt(l,m.e,l.length)
 l.push(b)
-q.De(q,r,new A.a_f(),new A.a_g());++m.e
+q.De(q,r,new A.a_f(),new A.a_g())
+m.r=m.f=-1;++m.e
 return r},
-a7G(){return this.f=this.gAZ()},
-a7H(){return this.r=this.gB_()},
+a7G(){if(this.gAZ()){this.f=this.e
+return!0}return!1},
+a7H(){if(this.gB_()){this.r=this.e
+return!0}return!1},
 af7(){var s,r,q=this
 if(!(q.x.length===0&&A.lL.prototype.gPg.call(q)))return!1
 s=q.c[--q.e+1]
@@ -39643,7 +39650,7 @@ r=t.C9
 s.Ko(s,A.a([new A.bg(B.b.gF(A.a5(p,!0,r)),1,t.Cw)],t.bZ))
 B.b.sl(q.b,0)
 q.e=0
-q.r=q.f=!1
+q.r=q.f=-1
 return B.b.gF(A.a5(p,!0,r))}}
 A.a_f.prototype={
 $1(a){return a+1},
