@@ -26,9 +26,9 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/NOTICES": "d56737ffac193e868fb3d1b205a2e47d",
 "favicon.ico": "9e7fc03d4a74aa2340223b2f4a548db4",
-"index.html": "137b828496c7cd2e2a8f9b81778da007",
-"/": "137b828496c7cd2e2a8f9b81778da007",
-"main.dart.js": "1de37a4c9d7cd481e699b94f88426cb7",
+"index.html": "44c00c4a4de9abd2153e596a5981dab2",
+"/": "44c00c4a4de9abd2153e596a5981dab2",
+"main.dart.js": "225033899ed02b60ed00b6ff17225618",
 "manifest.json": "8ab03dbea48dcf99db093b167581da6f",
 "version.json": "9512cfcd629b40d10eb23bd08614bcf4"
 };
